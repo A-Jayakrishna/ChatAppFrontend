@@ -66,7 +66,8 @@ export default function UiComp(props) {
           <div id="Usermatter">
           Click below for Recommendation system<br/>
           </div>
-          <a href="http://localhost:5000/" id="Recbutton" target="_blank">Recommendation system</a>
+            {/*<a href="http://localhost:5000/" id="Recbutton" target="_blank">Recommendation system</a>*/}
+            <a href="http://jayakrishna.pythonanywhere.com/" id="Recbutton" target="_blank">Recommendation system</a>
           {/* <button>Friends</button> <br />
           <button>Groups</button> */}
         </div>
