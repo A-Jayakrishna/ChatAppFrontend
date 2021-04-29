@@ -18,6 +18,7 @@ export default function Login1(props) {
           // let a = document.getElementById("LoginMsg");
           // a.innerHTML = res.data.status;
           // a.style.display = "block";
+          window.alert("Wrong Credentials");
           console.log('login error')
         }
       });
